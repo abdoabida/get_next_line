@@ -52,9 +52,6 @@ Alright, the last command created a `gnl` executable in your directory. Now test
 
 It should read the whole file to you. Kinda like a basic `cat` implementation.
 
-
-The instructions are clear enough, so I won't add anything else. If you have any questions, feel free to [ask me][8].
-
 Enjoy.
 
 [1]: https://www.1337.ma "1337 Khouribga"
